@@ -11,7 +11,7 @@
 
 const person = {
     name:"Mateus",
-    AggregateError: 19,
+    Age: 19,
     sex:"male",
     height: 1.7,
     Address: {
