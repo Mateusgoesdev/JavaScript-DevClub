@@ -3,6 +3,6 @@
 let name1 = "Mateus"
 let name2 = "Mateus"
 
-result = name1 == name2
+result = name1 === name2
 
 console.log(result)

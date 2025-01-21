@@ -3,6 +3,6 @@
 let name1 = "Mateus"
 let name2 = "Mateus"
 
-const result = name1 != name2
+const result = name1 !== name2
 
 console.log(result)
