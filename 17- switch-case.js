@@ -14,5 +14,5 @@ switch (temperature) {
         console.log('A pessoa está com a temperatura normal')
         break
     default:
-        console.log('Digite uma temperatura válida   ')
+        console.log('Digite uma temperatura válida')
 }
