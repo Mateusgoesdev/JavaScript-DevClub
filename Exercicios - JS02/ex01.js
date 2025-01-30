@@ -3,9 +3,9 @@
 const myNumber = 9
 
 if(myNumber > 10) {
-    console.log('O número é maior')
-} else if (myNumber == 10) {
-    console.log('O número é igual')
+    console.log('O número é maior que 10')
+} else if (myNumber < 10) {
+    console.log('O número é menor que 10')
 } else {
-    console.log('Digite um número igual ou maior que 10')
+    console.log('igual a 10')
 }
