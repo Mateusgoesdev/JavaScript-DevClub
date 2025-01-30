@@ -6,8 +6,6 @@ let impar = !(number % 0)
 
 if(number == par) {
     console.log(`O número ${number} é par`)
-} else if (number == impar) {
+} else (number == impar){    
     console.log(`O número ${number} é ímpar`)
-} else {
-    console.log(`Digite um número válido`)
 }
